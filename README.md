@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FRUHD
-- 🌱 I’m currently learning full stack Java Script (and I guess HTML and CSS)
+- 🌱 I’m currently learning full stack JavaScript (and I guess HTML and CSS)
 
 
 <!---
